@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+a {
+    background-color: white;
+    color: red;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: Garamond, "Times New Roman", sans-serif;
+}
+
+a:hover {
+    background-color: bisque;
+    color: brown;
+}
