@@ -15,3 +15,18 @@ a:hover {
     background-color: bisque;
     color: brown;
 }
+
+.danger {
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    border: 2px dotted red;
+    color: red;
+    font-weight: bolder;
+}
+
+.column {
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+}
